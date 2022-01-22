@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeBtn"
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+    <item
+        android:id="@+id/historyBtn"
+        android:icon="@drawable/history_icon"
+        android:title="History" />
+    <item
+        android:id="@+id/settingBtn"
+        android:icon="@drawable/setting_icon"
+        android:title="Settings" />
+    <item
+        android:id="@+id/logoutBtn"
+        android:icon="@drawable/logout_icon"
+        android:title="Logout" />
+</menu>
